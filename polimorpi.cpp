@@ -22,3 +22,9 @@ public:
         cout << "Pesan dari lia" << end;
     }
 };
+
+int main(){
+    seseorang* obyek;
+    joko a;
+    lia b;
+}
